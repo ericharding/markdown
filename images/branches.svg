@@ -311,7 +311,7 @@
 
 #mermaid-1570758594617 .titleText {
   text-anchor: middle;
-  font-size: 18px;
+  font-size: 8px;
   fill: black; }
 
 #mermaid-1570758594617 g.classGroup text {
