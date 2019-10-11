@@ -43,7 +43,7 @@
   max-width: 200px;
   padding: 2px;
   font-family: 'trebuchet ms', verdana, arial;
-  font-size: 12px;
+  font-size: 8px;
   background: #ffffde;
   border: 1px solid #aaaa33;
   border-radius: 2px;
@@ -113,7 +113,7 @@
   fill: black;
   stroke: none;
   font-family: 'trebuchet ms', verdana, arial;
-  font-size: 14px; }
+  font-size: 8px; }
 
 #mermaid-1570758594617 .activation0 {
   fill: #f4f4f4;
@@ -157,7 +157,7 @@
 
 #mermaid-1570758594617 .sectionTitle {
   text-anchor: start;
-  font-size: 11px;
+  font-size: 8px;
   text-height: 14px; }
 
 
